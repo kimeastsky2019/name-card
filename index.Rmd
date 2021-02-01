@@ -1,0 +1,17 @@
+---
+title: "Dongho Kim"
+image: "IMG_2105.JPG"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/kimeastsky"
+  - label: GitHub
+    url: "https://github.com/kimeastsky2019"
+  - label: Email
+    url: "mailto:kimeastsky@gmail.com"
+output:
+  postcards::jolla
+---
+ 
+ 저는 김동호 입니다. 에너지 데이터 분석과 친환경 컨설팅 업무를 수행 중입니다. 
