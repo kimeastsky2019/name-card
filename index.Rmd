@@ -2,8 +2,8 @@
 title: "Dongho Kim"
 image: "IMG_2105.JPG"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
+  - label: YouTube
+    url: "https://youtube.com/kimeastsky"
   - label: Twitter
     url: "https://twitter.com/kimeastsky"
   - label: GitHub
